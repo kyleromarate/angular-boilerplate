@@ -1,5 +1,5 @@
 {
-    "name": "angular-sign-up-verification-boilerplate",
+    "name": "angular-boilerplate",
     "version": "0.0.0",
     "scripts": {
         "ng": "ng",
@@ -20,7 +20,7 @@
         "@angular/platform-browser-dynamic": "^17.3.2",
         "@angular/router": "^17.3.2",
         "rxjs": "^6.5.5",
-        "tslib": "^2.0.0",
+        "tslib": "^2.6.2",
         "zone.js": "^0.14.4"
     },
     "devDependencies": {
@@ -35,12 +35,12 @@
         "jasmine-spec-reporter": "^5.0.0",
         "karma": "^6.4.3",
         "karma-chrome-launcher": "^3.1.0",
-        "karma-coverage-istanbul-reporter": "~3.0.2",
+        "karma-coverage-istanbul-reporter": "^3.0.2",
         "karma-jasmine": "^3.3.0",
         "karma-jasmine-html-reporter": "^1.5.0",
         "protractor": "^7.0.0",
         "ts-node": "^8.3.0",
         "tslint": "^6.1.0",
-        "typescript": "^5.4.3"
+        "typescript": "^5.4.2"
     }
 }
